@@ -9,9 +9,9 @@
             "discord": "btbias#9324"
         },
         {
-            "name": "hashfastr",
-            "url": "https://github.com/Hashfastr",
-            "discord": "Hashfastr"
+            "name": "eugenio-guarino",
+            "url": "https://github.com/eugenio-guarino",
+            "discord": "eugenio-guarino"
         }
     ],
     "compatibility": {
@@ -165,8 +165,8 @@
             "package": "5e-complete"
         }
     ],
-    "url": "https://github.com/Hashfastr/5e-complete",
-    "manifest": "https://github.com/Hashfastr/5e-complete/releases/download/v0.3.13/module.json",
-    "download": "https://github.com/Hashfastr/5e-complete/releases/download/v0.3.13/module.zip",
+    "url": "https://github.com/eugenio-guarino/5e-complete",
+    "manifest": "https://github.com/eugenio-guarino/5e-complete/releases/download/v0.3.13/module.json",
+    "download": "https://github.com/eugenio-guarino/5e-complete/releases/download/v0.3.13/module.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
