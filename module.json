@@ -1,18 +1,23 @@
 {
     "id": "5e-complete",
     "title": "5e Complete Compendium",
-    "version": "0.3.3",
+    "version": "0.3.13",
     "authors": [
         {
             "name": "btbias",
             "url": "https://github.com/btbias",
             "discord": "btbias#9324"
+        },
+        {
+            "name": "hashfastr",
+            "url": "https://github.com/Hashfastr",
+            "discord": "Hashfastr"
         }
     ],
     "compatibility": {
             "minimum": "10",
-            "maximum": "10",
-            "verified": "10.290"
+            "maximum": "12",
+            "verified": "12.327"
     },
     "styles": [
         "css/styles.css"
@@ -24,8 +29,8 @@
                 "type": "system",
                 "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
                 "compatibility": {
-                    "minimum": "2.0.0",
-                    "verified": "2.0.3"
+                    "minimum": "3",
+                    "verified": "3.2.1"
                 }
             }
         ]
@@ -160,8 +165,8 @@
             "package": "5e-complete"
         }
     ],
-    "url": "https://github.com/btbias/5e-complete",
-    "manifest": "https://github.com/btbias/5e-complete/releases/latest/download/module.json",
-    "download": "https://github.com/btbias/5e-complete/releases/download/v0.3.3/module.zip",
+    "url": "https://github.com/Hashfastr/5e-complete",
+    "manifest": "https://github.com/Hashfastr/5e-complete/releases/download/v0.3.13/module.json",
+    "download": "https://github.com/Hashfastr/5e-complete/releases/download/v0.3.13/module.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
