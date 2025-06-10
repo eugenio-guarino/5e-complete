@@ -1,3 +1,13 @@
+# This is not mine, only for personal use in my own campaign on VTT Foundry v13.
+## I fixed the broken urls for the images of many creatures and updated for foundry v13
+
+# 5e Complete
+The full D&amp;D 5th Edition compendium for Foundry VTT.
+
+This module was designed to fill in the holes of the 5e SRD that's included with Foundry, including all of the official classes and their subclasses, spells, races, and so on.
+
+A special thanks goes to my friends that have helped get this compendium to where it is, and also a big thank you to [Zhell](https://github.com/krbz999?tab=repositories) for helping with the macros.
+
 # 5e Complete
 The full D&amp;D 5th Edition compendium for Foundry VTT.
 
