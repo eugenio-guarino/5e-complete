@@ -1,7 +1,7 @@
 {
     "id": "5e-complete",
     "title": "5e Complete Compendium",
-    "version": "0.3.13",
+    "version": "0.3.4",
     "authors": [
         {
             "name": "btbias",
@@ -17,7 +17,7 @@
     "compatibility": {
             "minimum": "10",
             "maximum": "13",
-            "verified": "13.327"
+            "verified": "13.345"
     },
     "styles": [
         "css/styles.css"
@@ -29,7 +29,7 @@
                 "type": "system",
                 "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
                 "compatibility": {
-                    "minimum": "5",
+                    "minimum": "2.0.0",
                     "verified": "5.0.3"
                 }
             }
