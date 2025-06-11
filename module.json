@@ -166,7 +166,7 @@
         }
     ],
     "url": "https://github.com/eugenio-guarino/5e-complete",
-    "manifest": "https://github.com/eugenio-guarino/5e-complete/releases/download/v0.3.4module.json",
+    "manifest": "https://github.com/eugenio-guarino/5e-complete/releases/download/v0.3.4/module.json",
     "download": "https://github.com/eugenio-guarino/5e-complete/releases/download/v0.3.4/module.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
