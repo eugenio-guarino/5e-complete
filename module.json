@@ -1,7 +1,7 @@
 {
     "id": "5e-complete",
     "title": "5e Complete Compendium",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "authors": [
         {
             "name": "btbias",
@@ -9,9 +9,9 @@
             "discord": "btbias#9324"
         },
         {
-            "name": "eugenio-guarino",
+            "name": "axiomeye",
             "url": "https://github.com/axiomeye",
-            "discord": "eugenio-guarino"
+            "discord": "axiomeye"
         }
     ],
     "compatibility": {
@@ -165,7 +165,7 @@
         }
     ],
     "url": "https://github.com/axiomeye/5e-complete",
-    "manifest": "https://github.com/axiomeye/5e-complete/releases/download/v0.4.0/module.json",
-    "download": "https://github.com/axiomeye/5e-complete/releases/download/v0.4.0/module.zip",
+    "manifest": "https://github.com/axiomeye/5e-complete/releases/download/v0.4.1/module.json",
+    "download": "https://github.com/axiomeye/5e-complete/releases/download/v0.4.1/module.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
